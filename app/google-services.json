@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563631113535",
+    "firebase_url": "https://ontimetravel-f7f85.firebaseio.com",
+    "project_id": "ontimetravel-f7f85",
+    "storage_bucket": "ontimetravel-f7f85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563631113535:android:5f9b252259de8e3852bf8a",
+        "android_client_info": {
+          "package_name": "in.ontimetravel.ontimetravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563631113535-5ckqut1cfe7mhk2mti0ejidi08odvov1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ontimetravel.ontimetravel",
+            "certificate_hash": "08428ec3eb7fee44acd580e2ccbe9cf77aa0e733"
+          }
+        },
+        {
+          "client_id": "563631113535-0sfj75i180fsgtirtak5kl3okpvqn3vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAngYk6-2WMghEG2AHOlM8rPjBpqF5oc74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563631113535-0sfj75i180fsgtirtak5kl3okpvqn3vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
